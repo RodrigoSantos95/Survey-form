@@ -3,12 +3,6 @@ body {
     background-image: url(pexels-pixabay-355288.jpg);
 }
 
-.container {
-    border-radius: 5px;
-    border-color: black;
-    border-style: dashed;
-}
-
 #title {
     text-align: center;
     color: azure;
@@ -21,8 +15,6 @@ body {
     font-size: 1.5em;
     font-style: italic;
 }
-
-
 
 .form-group {
     display: flex;
