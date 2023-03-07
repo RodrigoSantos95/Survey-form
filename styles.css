@@ -62,6 +62,9 @@ body {
     border-style: none;
 }
 
-.desc-select{
-    
+.desc-select, .clue{
+    display: flex;
+    color: azure;
+    padding-bottom: 0.3em;
 }
+
